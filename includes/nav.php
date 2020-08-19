@@ -28,15 +28,8 @@
                     }
                 
                 ?>
+                <li> <a href="admin">Admin </li>
 
-
-                  
-                    <li>
-                        <a href="#">Services</a>
-                    </li>
-                    <li>
-                        <a href="#">Contact</a>
-                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
