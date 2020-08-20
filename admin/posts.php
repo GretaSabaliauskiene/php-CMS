@@ -29,8 +29,9 @@
                                 case 'add_post':
                                     require_once('admin_includes/add_post.php');  
                                     break;
-                                case 2:
-                                    echo "this is case2 ";
+                                case 'edit_post':
+                                    require_once('admin_includes/edit_post.php');
+
                                 break;
                                 default:
                                 require_once('admin_includes/view_all_posts.php');
