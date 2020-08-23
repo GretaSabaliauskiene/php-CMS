@@ -16,8 +16,7 @@
             <ul class="dropdown-menu">
                 <li class="divider"></li>
                 <li>
-                    <a href="#"><i class="fa fa-fw fa-power-off"></i> Log Out</a>
-                </li>
+                    <a class="btn" href="login.php?action=logout"> Log Out</a>
             </ul>
         </li>
     </ul>

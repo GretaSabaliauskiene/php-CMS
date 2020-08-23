@@ -1,0 +1,16 @@
+.card-login {
+  width: 500px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.card-create {
+  display: inline-block;
+}
+h4 {
+  text-align: center;
+  color: gray;
+}
